@@ -1,0 +1,7 @@
+configobj==5.0.6
+glob3==0.0.1
+PyInstaller==3.4
+PySimpleGUI==3.37.0
+pywin32==224
+schedule==0.6.0
+
